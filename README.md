@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 ### 🎧 Spotify Playing
-[![Spotify](https://spotify-now-playing-mnv7avptm-mothraxs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-green.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
