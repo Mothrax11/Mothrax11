@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 ### 🎧 Spotify Playing
-<img src="https://spotify-mothrax-tn9m96a0o-mothraxs-projects.vercel.app/api/spotify" alt="Spotify github" width="350" />
+<img src="https://spotify-mothrax.vercel.app/api/spotify" alt="Spotify github" width="350" />
