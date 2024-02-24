@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 ### 🎧 Spotify Playing
-[<img src="spotify-now-playing-green.vercel.app/api/spotify-playing" width="350" />]
+[![Spotify](https://spotify-mothrax-tn9m96a0o-mothraxs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/RAULITO200418)
