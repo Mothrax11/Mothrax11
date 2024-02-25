@@ -1,8 +1,4 @@
-<img align="right" height="200" src="https://i.imgur.com/yBNkpe4.jpeg"  />
-
-###
-
-<h2 align="left">Hi 👋! My name Mothrax and i'm a future software developer</h2>
+<h2 align="right">Hi 👋! My name Mothrax and i'm a future software developer</h2>
 
 ###
 
@@ -13,9 +9,14 @@
   <a href="https://www.twitch.tv/mothrax11" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20&logo=twitch&label=Mothrax11&color=9146FF&logoColor=&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+  <a href="https://twitter.com/_Mothrax_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20&logo=twitter&label=_Mothrax_&color=1DA1F2&logoColor=&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
